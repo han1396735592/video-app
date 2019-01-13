@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">韩新建制作</string>
+    <string name="nav_header_subtitle">admin@qqhxj.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">播放</string>
+    <string name="action_quanping">全屏</string>
+</resources>
